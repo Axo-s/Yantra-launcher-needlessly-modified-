@@ -1,8 +1,9 @@
-# yantra-app-launcher
+# Yantra-launcher-needlessly-modified
 
 ![Yantra Launcher Store Cover](https://github.com/coderGtm/yantra-app-launcher/assets/66418526/1e998174-5481-4b5d-96bb-3ebc7e4d857e)
 
-A Minimal CLI-based Android App Launcher.
+A CLI-based Android App Launcher.
+Forked from Yantra app launcher
 
 ## Installation
 To contribute to this project, you would need to fork it on GitHub. After that, clone your forked repository onto your local machine and open in with Android Studio
@@ -22,16 +23,11 @@ Now you should be good to go 🚀...
 ## Contribution
 - Please open an issue before you develop or edit something large to ensure that it is to be done, or to discuss the implementation strategy, so your hard work doesn't go in vain.
 - Follow the coding style to keep it consistent across the project.
-- If in dilemma, don't hesitate to reach out to the community via issues, discussions, or the Discord Community!
 
 ## Translation
 We support initiatives to translate Yantra Launcher in your native language! If you are interested for a long-term commitment to volunteer translations, see the [Translator's Guide](/Yantra_Launcher_Translators_Guide.pdf).
 
 ## FAQs
-See the [FAQs Page](/faq.md) for answers to Frequently Asked Questions!
-
-## Support
-See the [Support Page](/support.md) if you'd like to support the project.
 
 ## Contributors
 _(This section is not complete and updated yet)_
@@ -39,15 +35,6 @@ _(This section is not complete and updated yet)_
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/coderGtm"><img src="https://avatars.githubusercontent.com/u/66418526?v=4?s=100" width="100px;" alt="Gautam Mehta"/><br /><sub><b>Gautam Mehta</b></sub></a><br /><a href="#code-coderGtm" title="Code">💻</a> <a href="#review-coderGtm" title="Reviewed Pull Requests">👀</a> <a href="#research-coderGtm" title="Research">🔬</a> <a href="#projectManagement-coderGtm" title="Project Management">📆</a> <a href="#doc-coderGtm" title="Documentation">📖</a> <a href="#design-coderGtm" title="Design">🎨</a> <a href="#ideas-coderGtm" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-coderGtm" title="Maintenance">🚧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/axolotl-git"><img src="https://avatars.githubusercontent.com/u/131001318?v=4?s=100" width="100px;" alt="axolotl-git"/><br /><sub><b>axolotl-git</b></sub></a><br /><a href="#translation-axolotl-git" title="Translation">🌍</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://codersanx.netlify.app/"><img src="https://avatars.githubusercontent.com/u/104269567?v=4?s=100" width="100px;" alt="Anready"/><br /><sub><b>Anready</b></sub></a><br /><a href="#code-Anready" title="Code">💻</a> <a href="#translation-Anready" title="Translation">🌍</a></td>
-    </tr>
-  </tbody>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
