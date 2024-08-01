@@ -1,4 +1,4 @@
-# Yantra-launcher-needlessly-modified
+# Yantra launcher needlessly revamped 
 
 ![Yantra Launcher Store Cover](https://github.com/coderGtm/yantra-app-launcher/assets/66418526/1e998174-5481-4b5d-96bb-3ebc7e4d857e)
 
@@ -25,7 +25,7 @@ Now you should be good to go 🚀...
 - Follow the coding style to keep it consistent across the project.
 
 ## Translation
-We support initiatives to translate Yantra Launcher in your native language! If you are interested for a long-term commitment to volunteer translations, see the [Translator's Guide](/Yantra_Launcher_Translators_Guide.pdf).
+We support initiatives to translate Yantra launcher needlessly revamped  in your native language! If you are interested for a long-term commitment to volunteer translations, see the [Translator's Guide](/Yantra_Launcher_Translators_Guide.pdf).
 
 ## FAQs
 
